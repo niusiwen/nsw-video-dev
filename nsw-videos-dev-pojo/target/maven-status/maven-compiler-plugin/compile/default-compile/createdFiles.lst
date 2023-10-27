@@ -1,0 +1,12 @@
+com\nsw\pojo\UsersLikeVideos.class
+com\nsw\pojo\UsersFans.class
+com\nsw\pojo\vo\CommentsVO.class
+com\nsw\pojo\vo\VideosVO.class
+com\nsw\pojo\Videos.class
+com\nsw\pojo\Bgm.class
+com\nsw\pojo\UsersReport.class
+com\nsw\pojo\vo\PublisherVideo.class
+com\nsw\pojo\SearchRecords.class
+com\nsw\pojo\Users.class
+com\nsw\pojo\vo\UsersVO.class
+com\nsw\pojo\Comments.class

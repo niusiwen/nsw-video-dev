@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: nsw-videos-dev-mapper
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nsw
+Implementation-Vendor-Id: com.nsw
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/nsw-videos-dev/nsw-videos-dev-mapper
+Created-By: Maven Integration for Eclipse
+

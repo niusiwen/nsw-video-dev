@@ -1,0 +1,10 @@
+com\nsw\mapper\UsersReportMapper.class
+com\nsw\mapper\SearchRecordsMapper.class
+com\nsw\mapper\UsersLikeVideosMapper.class
+com\nsw\mapper\CommentsMapperCustom.class
+com\nsw\mapper\VideosMapper.class
+com\nsw\mapper\VideosMapperCustom.class
+com\nsw\mapper\BgmMapper.class
+com\nsw\mapper\CommentsMapper.class
+com\nsw\mapper\UsersFansMapper.class
+com\nsw\mapper\UsersMapper.class
