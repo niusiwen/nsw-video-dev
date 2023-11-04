@@ -1,6 +1,0 @@
-com\nsw\service\VideoService.class
-com\nsw\service\impl\BgmServiceImpl.class
-com\nsw\service\BgmService.class
-com\nsw\service\UserService.class
-com\nsw\service\impl\UserServiceImpl.class
-com\nsw\service\impl\VideoServiceImpl.class
